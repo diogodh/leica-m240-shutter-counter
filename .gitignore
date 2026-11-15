@@ -1,8 +1,0 @@
-# Never commit firmware images or anything extracted from them.
-*.FW
-*.fw
-*.bin
-fw_out/
-sections/
-__pycache__/
-*.pyc
